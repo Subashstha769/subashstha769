@@ -1,7 +1,6 @@
 
 # Hi 👋, I'm Subash Shrestha
 **A passionate Web Developer from Nepal 🇳🇵**
-## 🌐 Available on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subash_stha01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subashstha769@gmail.com) 
 
 
@@ -19,6 +18,9 @@
 
   ### ✍️ Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 📊 GitHub Stats:
