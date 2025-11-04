@@ -12,85 +12,88 @@ I’m Subash Shrestha, a creative and detail-oriented Web Developer driven by th
 <table align="left" border="0" cellspacing="15" cellpadding="0">
   <!-- Row 1 -->
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/><br>HTML5
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70"/><br>CSS3
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70"/><br>JavaScript
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70"/><br>React
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="70" height="70"/><br>React Router
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" height="70"/><br>Bootstrap
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="70" height="70"/><br>TailwindCSS
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70"/><br>PHP
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="70" height="70"/><br>Apache
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70"/><br>MySQL
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="70" height="70"/><br>Apache
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70"/><br>MySQL
+    </td>
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="70" height="70"/><br>SQLite
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" height="70"/><br>C
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/><br>C++
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70"/><br>C#
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/><br>Java
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="70" height="70"/><br>Kotlin
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/><br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70"/><br>NumPy
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" height="70"/><br>Pandas
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="70"/><br>Scikit-learn
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70"/><br>Python
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70"/><br>NumPy
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" height="70"/><br>Pandas
+    </td>
+    <td align="center" width="130">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="70"/><br>Scikit-learn
+    </td>
+    <td align="center" width="130">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="70" height="70"/><br>Matplotlib
     </td>
-    <td align="center" width="120">
+    <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70"/><br>Figma
     </td>
-    
+    <!-- Empty cells to keep layout -->
+    <td width="130"></td>
+    <td width="130"></td>
   </tr>
 </table>
 
 <br clear="all"/>
+
 
 
 
