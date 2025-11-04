@@ -86,15 +86,7 @@ I’m Subash Shrestha, a creative and detail-oriented Web Developer driven by th
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70"/><br>Figma
     </td>
-    <!-- Filling empty cells to keep table layout uniform -->
-    <td width="120"></td>
-    <td width="120"></td>
-    <td width="120"></td>
-    <td width="120"></td>
-    <td width="120"></td>
-    <td width="120"></td>
-    <td width="120"></td>
-    <td width="120"></td>
+    
   </tr>
 </table>
 
