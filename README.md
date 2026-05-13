@@ -86,6 +86,9 @@ I’m Subash Shrestha, a creative and detail-oriented Web Developer driven by th
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70"/><br>Figma
     </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70"/><br>Docker
+    </td>
     
   </tr>
 </table>
