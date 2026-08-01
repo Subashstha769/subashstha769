@@ -98,52 +98,47 @@ I’m Subash Shrestha, a creative and detail-oriented Web Developer driven by th
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
----
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alamimran613&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
 
-  <img
-    src="https://streak-stats.demolab.com?user=alamimran613&theme=dark&hide_border=false"
-    height="170"
-  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alamimran613&theme=dark&hide_border=false" height="150" />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&layout=compact&theme=dark&hide_border=false&langs_count=8"
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
 </p>
 
----
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 📈 Top Contributed Repo
 
 <p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true"
-  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
----
 
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
-  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
 
 ---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=alamimran613&icon=0&color=0" />
 </p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
