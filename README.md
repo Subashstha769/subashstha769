@@ -100,7 +100,7 @@ I’m Subash Shrestha, a creative and detail-oriented Web Developer driven by th
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=subashstha769&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -108,9 +108,9 @@ I’m Subash Shrestha, a creative and detail-oriented Web Developer driven by th
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subashstha769&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Subashstha769&theme=dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subashstha769&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subashstha769&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=subashstha769&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashstha769&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150"/>
 </p>
 <!-- Snake Game Repo View -->
 
