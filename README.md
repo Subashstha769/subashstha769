@@ -1,5 +1,13 @@
-<h1 align="center">Hi, I'm Subash Shrestha</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:ff69b4&height=200&section=header&text=Subash%20Shrestha&fontSize=50&fontAlignY=35&animation=twinkling&desc=React%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=55&width=100%" />
+</p>
+
+<h1 align="center">Hi, I'm Subash Shrestha 👋</h1>
 <h3 align="center">React Developer | Frontend Enthusiast | BSc IT Student</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_OPEN_TO_WORK-Internship-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subash-shrestha-330724295/">
@@ -35,7 +43,7 @@ I'm a creative and detail-oriented Web Developer driven by the passion to transf
 
 ---
 
-# 🧰 Skills & Tools
+## 🧰 Skills & Tools
 
 <table align="left" border="0" cellspacing="15" cellpadding="0">
   <!-- Row 1 -->
@@ -117,11 +125,15 @@ I'm a creative and detail-oriented Web Developer driven by the passion to transf
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70"/><br>Docker
     </td>
-    
+    <td align="center" width="130">
+      <!-- Empty cell to maintain 8-column grid -->
+    </td>
   </tr>
 </table>
 
 <br clear="all"/>
+
+---
 
 ## 📂 Featured Projects
 
@@ -151,20 +163,15 @@ I'm a creative and detail-oriented Web Developer driven by the passion to transf
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subashstha769&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subashstha769&theme=radical&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/github/followers/Subashstha769?style=for-the-badge&logo=github&color=ff69b4" />
+  <img src="https://img.shields.io/github/stars/Subashstha769?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/Subashstha769/Subashstha769?style=for-the-badge&logo=github&color=blue" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subashstha769&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subashstha769&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://img.shields.io/badge/Total_Repositories-14-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open_to_Work-Internship-ff69b4?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Currently_Learning-Laravel-red?style=for-the-badge&logo=laravel" />
 </p>
 
 ---
@@ -176,6 +183,21 @@ I'm a creative and detail-oriented Web Developer driven by the passion to transf
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subashstha769/Subashstha769/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Subashstha769/Subashstha769/output/github-snake.svg" />
 </picture>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+
+---
+
+## 😆 Fun Fact
+
+> I can solve a Rubik's cube in under 2 minutes... but I'd rather debug React components! 🧩
 
 ---
 
@@ -204,4 +226,8 @@ I'm a creative and detail-oriented Web Developer driven by the passion to transf
 
 <p align="center">
   <i>"Transforming ideas into elegant digital experiences, one line of code at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:ff69b4&height=100&section=footer&width=100%" />
 </p>
