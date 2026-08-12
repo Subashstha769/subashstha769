@@ -26,12 +26,12 @@
 
 I'm a creative and detail-oriented Web Developer driven by the passion to transform ideas into elegant digital experiences. I love crafting responsive, user-focused websites using modern technologies like **React**, **Tailwind CSS**, and **Bootstrap**. My approach to development blends logic with creativity, allowing me to design clean interfaces that feel intuitive and engaging.
 
-- 🎓 BSc (Hons) IT student at ISMT College (University of Sunderland)
-- 🔐 Interested in web security & authentication
-- 🎨 Love creating smooth animations with **GSAP** & **Three.js**
-- 🌱 Currently learning **Laravel** for full-stack growth
-- 📍 Based in Lalitpur, Nepal
-- 🎸 Outside of coding, I find rhythm and inspiration in music
+-  BSc (Hons) IT student at ISMT College (University of Sunderland)
+-  Interested in web security & authentication
+-  Love creating smooth animations with **GSAP** & **Three.js**
+-  Currently learning **Laravel** for full-stack growth
+-  Based in Lalitpur, Nepal
+-  Outside of coding, I find rhythm and inspiration in music
 
 ---
 
