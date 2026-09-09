@@ -171,9 +171,6 @@ I'm a creative and detail-oriented Web Developer driven by the passion to transf
   <img src="https://img.shields.io/badge/Currently_Learning-Laravel-red?style=for-the-badge&logo=laravel" />
 </p>
 
----
-
-## 🐍 Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subashstha769/Subashstha769/output/github-snake-dark.svg" />
