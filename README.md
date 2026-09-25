@@ -156,6 +156,13 @@ I'm a creative and detail-oriented Web Developer driven by the passion to transf
 🔗 [Repository](https://github.com/Subashstha769/SurakshaAuth)
 
 ---
+## 🏆 Certifications
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Subashstha769/subashstha769/main/legacy-responsive-web-design-v8.png" width="45%" alt="Legacy Responsive Web Design V8 Certificate" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Subashstha769/subashstha769/main/legacy-javascript-algorithm-and-data-structure-v7.png" width="45%" alt="Legacy JavaScript Algorithms and Data Structures V7 Certificate" />
+</p>
 
 ## 📊 GitHub Stats
 
