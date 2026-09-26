@@ -164,6 +164,8 @@ I'm a creative and detail-oriented Web Developer driven by the passion to transf
   <img src="https://raw.githubusercontent.com/Subashstha769/subashstha769/main/legacy-javascript-algorithm-and-data-structure-v7.png" width="45%" alt="Legacy JavaScript Algorithms and Data Structures V7 Certificate" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
